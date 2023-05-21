@@ -7,6 +7,9 @@
   },
   "author": "Ivaylo Velkov",
   "license": "ISC",
+  "engines": {
+    "node": "18.16.0"
+  },
   "dependencies": {
     "body-parser": "^1.20.2",
     "ejs": "^3.1.9",
