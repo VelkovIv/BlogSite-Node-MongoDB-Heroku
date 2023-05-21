@@ -6,3 +6,4 @@ Newsletter-Signup
 npm-debug.log
 .DS_Store
 /*.env
+password.txt
