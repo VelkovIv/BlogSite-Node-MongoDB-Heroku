@@ -1,4 +1,4 @@
-# BlogSite-Node-MongoDB-Heroku
+# BlogSite-NodeJS-MongoDB-Heroku
 
 This is blog site wotking with Node, Express, Bootstrap, <%= EJS %> and Mondo DB <br>
 <img src='https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-svg-vector.svg' height=30px>
