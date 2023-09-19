@@ -7,7 +7,7 @@ This is blog site wotking with Node, Express, Bootstrap, <%= EJS %> and Mondo DB
 <img src='https://process.filestackapi.com/cache=expiry:max/resize=width:700/TyzZKw86QzSElYK6bfXK' height=50px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
 
-
+You can visit the blog page <a href=' '> >>here<< </a>- <strong>the app is not working for the moment</strong>
 
 The same as <a href='https://github.com/VelkovIv/BlogSite-Node-Local-DB'> this repo</a>, but app is deplyed on Heroku and DB in Atlas Mongo DB <br>
 
